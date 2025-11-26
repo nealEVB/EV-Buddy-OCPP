@@ -1,0 +1,24 @@
+###############################
+# Build / IDE / System Files #
+###############################
+
+# Maven build directory
+target/
+
+# JARs / WARs
+*.jar
+*.war
+
+# Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# IntelliJ
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
